@@ -38,6 +38,7 @@ PAUSE_ICON = 1
 BLACK = 0x000000
 WHITE = 0xFFFFFF
 
+
 display = adafruit_displayio_ssd1306.SSD1306(
     display_bus,
     width=WIDTH,
